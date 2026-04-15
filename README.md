@@ -25,7 +25,7 @@ Verify it works: open a terminal and type `node -v` — you should see `v16` or 
 **Option A – Git:**
 ```bash
 git clone https://github.com/YOUR_ORG/malendau-hackathon-server.git
-cd malendau-hackathon-server
+cd malendau-hackathon
 ```
 
 **Option B – ZIP:**  
